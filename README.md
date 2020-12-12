@@ -22,6 +22,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # Screenshot
-<img src="/assets/images/Code-RefractorSS.png">
+<img src="/assets/images/Code-RefractorSS.png"> </img>
 
 Click on the deployed link to view the page
